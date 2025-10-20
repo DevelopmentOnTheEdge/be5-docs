@@ -43,7 +43,7 @@
 
    * - Тип be5
      - MySQL
-     - PostGres
+     - PostgreSQL
      - DB2
      - MS SQL 2008
      - Oracle
