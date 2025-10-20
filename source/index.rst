@@ -6,3 +6,5 @@ BeanExplorer Enterprise Editon v.5
 
    project.md
    maven.rst
+   l10n.md
+   db.rst
