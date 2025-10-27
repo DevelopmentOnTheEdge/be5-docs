@@ -2,6 +2,11 @@
 
 ## Создание проекта
 
+Установите (или у вас уже установлены):
+* PostreSQL (15-17 версии, с 18 какая-то ошибка при синхронизации)
+* Java (версии 21-25)
+* Node, npm 
+
 ### Создание кода проекта из шаблона
 Для создание нового проекта для be5 используется [maven archetype](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html):
 
