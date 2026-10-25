@@ -33,7 +33,8 @@ import sys, os
 extensions = [
     'recommonmark',
     'sphinx_markdown_tables',
-    'sphinxcontrib.kroki'
+    'sphinxcontrib.kroki',
+    'sphinx_simplepdf'
     ]
 
 sphinx_rtd_size_width = "90%"
